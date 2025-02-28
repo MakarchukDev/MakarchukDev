@@ -26,6 +26,9 @@
     </a>
 </p>
 
-<h2 align="left">:heart: Let's get connected:</h2>
-
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/barry_bradley)](https://t.me/barry_bradley)
+<h2 align="center">❤️ Let's get connected:</h2>
+<p align="center">
+  <a href="https://t.me/barry_bradley">
+      <img src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</p>
