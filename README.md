@@ -2,7 +2,7 @@
   <h2>
     Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
     <br> I'm MakarchukDev, Full Stack Web Developer, SEO Specialist :computer: <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+    <img src="https://raw.githubusercontent.com/MakarchukDev/makarchuk/refs/heads/main/cropped_animation_110.gif" alt="Coder GIF" width="500">
   </h2>
 </div>
 
